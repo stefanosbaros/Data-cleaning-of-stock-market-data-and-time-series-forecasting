@@ -1,4 +1,4 @@
-# Data-cleaning-of-stock-market-data-and-time-series-forecasting-of-prices
+# Data cleaning of stock market data and time-series forecasting of prices
 
 The readme file for this project that includes the technical analysis as well as details about the code is:
 
